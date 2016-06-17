@@ -7,7 +7,6 @@
  * The user wants to generate a form input (checkboxes) from that list. This program
  * generates a text file which contains the list formatted for form input use.
 ****/
-package formInputGenerator;
 
 import java.awt.EventQueue;
 import java.util.LinkedList;
